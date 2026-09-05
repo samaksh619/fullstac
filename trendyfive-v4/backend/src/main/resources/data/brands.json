@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Apple",
+    "tagline": "iPhone, Mac & more",
+    "badge": "A",
+    "count": 4
+  },
+  {
+    "name": "Samsung",
+    "tagline": "Galaxy ecosystem",
+    "badge": "S",
+    "count": 3
+  },
+  {
+    "name": "Google",
+    "tagline": "Pixel experience",
+    "badge": "G",
+    "count": 1
+  },
+  {
+    "name": "Sony",
+    "tagline": "Immersive audio",
+    "badge": "S",
+    "count": 1
+  },
+  {
+    "name": "Dell",
+    "tagline": "Work & productivity",
+    "badge": "D",
+    "count": 1
+  },
+  {
+    "name": "JBL",
+    "tagline": "Wireless audio",
+    "badge": "J",
+    "count": 1
+  },
+  {
+    "name": "Bose",
+    "tagline": "Premium sound",
+    "badge": "B",
+    "count": 1
+  },
+  {
+    "name": "OnePlus",
+    "tagline": "Fast, fluid tech",
+    "badge": "1",
+    "count": 2
+  },
+  {
+    "name": "Xiaomi",
+    "tagline": "Smart tech for all",
+    "badge": "X",
+    "count": 1
+  },
+  {
+    "name": "Garmin",
+    "tagline": "Fitness & GPS",
+    "badge": "G",
+    "count": 1
+  },
+  {
+    "name": "Fitbit",
+    "tagline": "Health & fitness",
+    "badge": "F",
+    "count": 1
+  }
+]

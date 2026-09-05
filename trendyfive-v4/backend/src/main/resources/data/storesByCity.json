@@ -1,0 +1,220 @@
+{
+  "Bengaluru": [
+    {
+      "name": "Croma",
+      "area": "Indiranagar",
+      "type": "Electronics",
+      "distance": "1.8 km",
+      "icon": "C",
+      "featuredBrand": "Apple"
+    },
+    {
+      "name": "Reliance Digital",
+      "area": "Koramangala",
+      "type": "Electronics",
+      "distance": "3.2 km",
+      "icon": "R",
+      "featuredBrand": "Samsung"
+    },
+    {
+      "name": "Vijay Sales",
+      "area": "HSR Layout",
+      "type": "Electronics",
+      "distance": "4.1 km",
+      "icon": "V",
+      "featuredBrand": "Sony"
+    },
+    {
+      "name": "Apple Premium Reseller",
+      "area": "MG Road",
+      "type": "Apple products",
+      "distance": "5.0 km",
+      "icon": "A",
+      "featuredBrand": "Apple"
+    },
+    {
+      "name": "Samsung Smart Plaza",
+      "area": "Whitefield",
+      "type": "Samsung products",
+      "distance": "6.2 km",
+      "icon": "S",
+      "featuredBrand": "Samsung"
+    },
+    {
+      "name": "Sangeetha Mobiles",
+      "area": "Jayanagar",
+      "type": "Mobiles & accessories",
+      "distance": "6.8 km",
+      "icon": "S",
+      "featuredBrand": "OnePlus"
+    }
+  ],
+  "Delhi": [
+    {
+      "name": "Croma",
+      "area": "Saket",
+      "type": "Electronics",
+      "distance": "2.1 km",
+      "icon": "C",
+      "featuredBrand": "Apple"
+    },
+    {
+      "name": "Reliance Digital",
+      "area": "Vasant Kunj",
+      "type": "Electronics",
+      "distance": "3.4 km",
+      "icon": "R",
+      "featuredBrand": "Samsung"
+    },
+    {
+      "name": "Vijay Sales",
+      "area": "Lajpat Nagar",
+      "type": "Electronics",
+      "distance": "4.6 km",
+      "icon": "V",
+      "featuredBrand": "Sony"
+    },
+    {
+      "name": "Apple Premium Reseller",
+      "area": "Connaught Place",
+      "type": "Apple products",
+      "distance": "5.2 km",
+      "icon": "A",
+      "featuredBrand": "Apple"
+    },
+    {
+      "name": "Sangeetha Mobiles",
+      "area": "Rohini",
+      "type": "Mobiles & accessories",
+      "distance": "7.0 km",
+      "icon": "S",
+      "featuredBrand": "OnePlus"
+    }
+  ],
+  "Mumbai": [
+    {
+      "name": "Croma",
+      "area": "Andheri West",
+      "type": "Electronics",
+      "distance": "1.9 km",
+      "icon": "C",
+      "featuredBrand": "Apple"
+    },
+    {
+      "name": "Reliance Digital",
+      "area": "Powai",
+      "type": "Electronics",
+      "distance": "3.0 km",
+      "icon": "R",
+      "featuredBrand": "Samsung"
+    },
+    {
+      "name": "Vijay Sales",
+      "area": "Bandra",
+      "type": "Electronics",
+      "distance": "4.3 km",
+      "icon": "V",
+      "featuredBrand": "Sony"
+    },
+    {
+      "name": "Apple Premium Reseller",
+      "area": "Lower Parel",
+      "type": "Apple products",
+      "distance": "5.1 km",
+      "icon": "A",
+      "featuredBrand": "Apple"
+    },
+    {
+      "name": "Sangeetha Mobiles",
+      "area": "Goregaon",
+      "type": "Mobiles & accessories",
+      "distance": "6.4 km",
+      "icon": "S",
+      "featuredBrand": "OnePlus"
+    }
+  ],
+  "Hyderabad": [
+    {
+      "name": "Croma",
+      "area": "Banjara Hills",
+      "type": "Electronics",
+      "distance": "2.0 km",
+      "icon": "C",
+      "featuredBrand": "Apple"
+    },
+    {
+      "name": "Reliance Digital",
+      "area": "Madhapur",
+      "type": "Electronics",
+      "distance": "3.6 km",
+      "icon": "R",
+      "featuredBrand": "Samsung"
+    },
+    {
+      "name": "Vijay Sales",
+      "area": "Kukatpally",
+      "type": "Electronics",
+      "distance": "4.8 km",
+      "icon": "V",
+      "featuredBrand": "Sony"
+    },
+    {
+      "name": "Apple Premium Reseller",
+      "area": "Jubilee Hills",
+      "type": "Apple products",
+      "distance": "5.5 km",
+      "icon": "A",
+      "featuredBrand": "Apple"
+    },
+    {
+      "name": "Sangeetha Mobiles",
+      "area": "Ameerpet",
+      "type": "Mobiles & accessories",
+      "distance": "6.3 km",
+      "icon": "S",
+      "featuredBrand": "OnePlus"
+    }
+  ],
+  "Pune": [
+    {
+      "name": "Croma",
+      "area": "Viman Nagar",
+      "type": "Electronics",
+      "distance": "1.7 km",
+      "icon": "C",
+      "featuredBrand": "Apple"
+    },
+    {
+      "name": "Reliance Digital",
+      "area": "Kothrud",
+      "type": "Electronics",
+      "distance": "3.1 km",
+      "icon": "R",
+      "featuredBrand": "Samsung"
+    },
+    {
+      "name": "Vijay Sales",
+      "area": "Aundh",
+      "type": "Electronics",
+      "distance": "4.0 km",
+      "icon": "V",
+      "featuredBrand": "Sony"
+    },
+    {
+      "name": "Apple Premium Reseller",
+      "area": "Koregaon Park",
+      "type": "Apple products",
+      "distance": "5.4 km",
+      "icon": "A",
+      "featuredBrand": "Apple"
+    },
+    {
+      "name": "Sangeetha Mobiles",
+      "area": "Baner",
+      "type": "Mobiles & accessories",
+      "distance": "6.1 km",
+      "icon": "S",
+      "featuredBrand": "OnePlus"
+    }
+  ]
+}
